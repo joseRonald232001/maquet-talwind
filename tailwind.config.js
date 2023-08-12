@@ -16,7 +16,8 @@ export default {
     },
     fontFamily:{
       righteoues:['Righteous','cursive'],
-      roboto:['Roboto', 'sans-serif']
+      roboto:['Roboto', 'sans-serif'],
+      sans:['Open Sans', 'sans-serif']
     },
 
     extend: {},
