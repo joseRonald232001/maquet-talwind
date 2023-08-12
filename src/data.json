@@ -1,0 +1,66 @@
+[
+ {
+    "id":1,
+    "title":"color permanente",
+    "hr":"4",
+    "price":"225",
+    "contend":"Sample text. Click to select the text box. Click again or double click to start editing the text.",
+    "img":"https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/23cfc8a8ddea518493fefc3f/d85c6484-e032-e766-114a-3c4f70b9cd91.jpg"
+ },
+ {
+    "id":2,
+    "title":"lavar,retorcer y peinar",
+    "hr":"2",
+    "price":"125",
+    "contend":"Sample text. Click to select the text box. Click again or double click to start editing the text.",
+    "img":"https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/3bd2bae272915e2e8ad02812/dsdsd.jpg"
+ },
+ {
+    "id":3,
+    "title":"tratamiento de desintoxcicacion",
+    "hr":"1",
+    "price":"85",
+    "contend":"Sample text. Click to select the text box. Click again or double click to start editing the text.",
+    "img":"https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/5bfb580ddc9a5375a5fcbf93/000d68fc-8143-28ce-c245-876398073a2d.jpg"
+ },   
+ {
+    "id":4,
+    "title":"tratamiento de aceite caliente",
+    "hr":"1",
+    "price":"155",
+    "contend":"Sample text. Click to select the text box. Click again or double click to start editing the text.",
+    "img":"https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/79f9825468635659b77ffe68/8554a0da-6262-fe25-42cf-743b0d0f3815.jpg"
+ },
+ {
+    "id":5,
+    "title":"trenzas micro box",
+    "hr":"3",
+    "price":"250",
+    "contend":"Sample text. Click to select the text box. Click again or double click to start editing the text.",
+    "img":"https://assets.nicepagecdn.com/d2cc3eaa/3125827/images/wew.jpg"
+ },
+ {
+    "id":6,
+    "title":"reparacion de locomotoras y retorcido",
+    "hr":"2",
+    "price":"155",
+    "contend":"Sample text. Click to select the text box. Click again or double click to start editing the text.",
+    "img":"https://assets.nicepagecdn.com/d2cc3eaa/3125827/images/452.jpg"
+ } , 
+ {
+    "id":7,
+    "title":"trenzas jumbo box",
+    "hr":"3",
+    "price":"295",
+    "contend":"Sample text. Click to select the text box. Click again or double click to start editing the text.",
+    "img":"https://assets.nicepagecdn.com/d2cc3eaa/3125827/images/6.jpg"
+ },
+ {
+    "id":8,
+    "title":"extenciones de rastas",
+    "hr":"4",
+    "price":"355",
+    "contend":"Sample text. Click to select the text box. Click again or double click to start editing the text.",
+    "img":"https://assets.nicepagecdn.com/d2cc3eaa/3125827/images/345.jpg"
+ }             
+]

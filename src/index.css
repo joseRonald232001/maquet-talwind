@@ -9,37 +9,6 @@ body{
   background: darkcyan;
 }
 .border{
-  border: 2px solid black;
+  border: 2px solid rgb(45, 121, 27);
 }
 
-
-@layer components {
-  .containers {
-    width: 100%;
-}
-@media (min-width: 540px) {
-    .containers {
-        max-width: 540px;
-    }
-}
-@media (min-width: 668px) {
-    .containers {
-        max-width: 668px;
-    }
-}
-@media (min-width: 824px) {
-    .containers {
-        max-width: 824px;
-    }
-}
-@media (min-width: 1280px) {
-    .containers {
-        max-width: 1280px;
-    }
-}
-@media (min-width: 1536px) {
-    .containers {
-        max-width: 1536px;
-    }
-}
-}

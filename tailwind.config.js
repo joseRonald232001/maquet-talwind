@@ -10,7 +10,9 @@ export default {
       black:"#000000",
       ligthgray:"#BBBBBB",
       white:"#ffffff",
-      ligthBlue:"#B9D1DE"
+      ligthBlue:"#B9D1DE",
+      gray:"#808080",
+    
     },
     fontFamily:{
       righteoues:['Righteous','cursive'],
